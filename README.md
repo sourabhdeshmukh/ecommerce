@@ -58,7 +58,7 @@ Contributions to the project are welcome. To contribute, follow these steps:
 
 ## Credits
 
-This project was developed by [sourabhdeshmukh](https://www.github.com/sourabhdeshmukh) <!--with contributions from [Contributor Names Here]-->.
+This project was developed by [sourabhdeshmukh](https://www.github.com/sourabhdeshmukh) with contributions from [SnehalVNikam](https://github.com/SnehalVNikam) and [shreya-krish08](https://github.com/shreya-krish08).
 
 ## License
 
