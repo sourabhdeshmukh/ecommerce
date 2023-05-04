@@ -1,0 +1,13 @@
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/model/Product.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/repos/ProductRepository.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/dto/product/ProductDto.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/EcommerceApplication.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/model/Category.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/repos/CategoryRepository.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/services/ProductService.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/services/CategoryService.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/controller/ProductController.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/configuration/webConfiguration.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/controller/CategoryController.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/utils/ResponseUtil.java
+/Users/snehalnikam/Desktop/ecommerce/src/main/java/com/example/ecommerce/configuration/SwaggerConfiguration.java
